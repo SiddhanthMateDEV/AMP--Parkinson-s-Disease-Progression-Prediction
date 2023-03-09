@@ -1,0 +1,72 @@
+File,Shape,Columns,Data types,Summary statistics,patient_id,visit_month,updrs_1,updrs_2,updrs_3,updrs_4,PeptideAbundance,NPX
+Unnamed index,"(2615, 8)",,,,,,,,,,,
+Unnamed index,,"['visit_id', 'patient_id', 'visit_month', 'updrs_1', 'updrs_2', 'updrs_3', 'updrs_4', 'upd23b_clinical_state_on_medication']",,,,,,,,,,
+Unnamed index,,,"visit_id                                object
+patient_id                               int64
+visit_month                              int64
+updrs_1                                float64
+updrs_2                                float64
+updrs_3                                float64
+updrs_4                                float64
+upd23b_clinical_state_on_medication     object
+dtype: object",,,,,,,,,
+Unnamed index,,,,count,2615.0,2615.0,2614.0,2613.0,2590.0,1577.0,,
+Unnamed index,,,,mean,32651.74378585086,31.190822179732315,7.110558530986993,6.743589743589744,19.42123552123552,1.8617628408370324,,
+Unnamed index,,,,std,18535.75869967103,25.199052851763675,5.5259554758074545,6.323229649771822,15.000288809455176,3.0221122789302326,,
+Unnamed index,,,,min,55.0,0.0,0.0,0.0,0.0,0.0,,
+Unnamed index,,,,25%,16574.0,10.5,3.0,1.0,6.0,0.0,,
+Unnamed index,,,,50%,29417.0,24.0,6.0,5.0,19.0,0.0,,
+Unnamed index,,,,75%,50611.0,48.0,10.0,10.0,29.0,3.0,,
+Unnamed index,,,,max,65043.0,108.0,33.0,40.0,86.0,20.0,,
+Unnamed index,"(981834, 6)",,,,,,,,,,,
+Unnamed index,,"['visit_id', 'visit_month', 'patient_id', 'UniProt', 'Peptide', 'PeptideAbundance']",,,,,,,,,,
+Unnamed index,,,"visit_id             object
+visit_month           int64
+patient_id            int64
+UniProt              object
+Peptide              object
+PeptideAbundance    float64
+dtype: object",,,,,,,,,
+Unnamed index,,,,count,981834.0,981834.0,,,,,981834.0,
+Unnamed index,,,,mean,32603.465360743263,26.105060529580356,,,,,642890.2459328535,
+Unnamed index,,,,std,18605.934422206712,22.91389744509923,,,,,3377989.092585996,
+Unnamed index,,,,min,55.0,0.0,,,,,10.9985,
+Unnamed index,,,,25%,16566.0,6.0,,,,,28174.25,
+Unnamed index,,,,50%,29313.0,24.0,,,,,74308.29999999999,
+Unnamed index,,,,75%,49995.0,48.0,,,,,221338.75,
+Unnamed index,,,,max,65043.0,108.0,,,,,178752000.0,
+Unnamed index,"(232741, 5)",,,,,,,,,,,
+Unnamed index,,"['visit_id', 'visit_month', 'patient_id', 'UniProt', 'NPX']",,,,,,,,,,
+Unnamed index,,,"visit_id        object
+visit_month      int64
+patient_id       int64
+UniProt         object
+NPX            float64
+dtype: object",,,,,,,,,
+Unnamed index,,,,count,232741.0,232741.0,,,,,,232741.0
+Unnamed index,,,,mean,32593.881872983275,26.099204695348046,,,,,,2712076.9438226297
+Unnamed index,,,,std,18608.47950601742,22.874718711588706,,,,,,22241547.317362946
+Unnamed index,,,,min,55.0,0.0,,,,,,84.6082
+Unnamed index,,,,25%,16566.0,6.0,,,,,,29464.4
+Unnamed index,,,,50%,29313.0,24.0,,,,,,113556.0
+Unnamed index,,,,75%,49995.0,48.0,,,,,,563894.0
+Unnamed index,,,,max,65043.0,108.0,,,,,,613851000.0
+Unnamed index,"(2223, 8)",,,,,,,,,,,
+Unnamed index,,"['visit_id', 'patient_id', 'visit_month', 'updrs_1', 'updrs_2', 'updrs_3', 'updrs_4', 'upd23b_clinical_state_on_medication']",,,,,,,,,,
+Unnamed index,,,"visit_id                                object
+patient_id                               int64
+visit_month                              int64
+updrs_1                                float64
+updrs_2                                float64
+updrs_3                                float64
+updrs_4                                float64
+upd23b_clinical_state_on_medication     object
+dtype: object",,,,,,,,,
+Unnamed index,,,,count,2223.0,2223.0,2010.0,2009.0,2218.0,1295.0,,
+Unnamed index,,,,mean,32478.016194331984,12.910481331533964,5.6840796019900495,6.507715281234445,22.91794409377818,0.8401544401544402,,
+Unnamed index,,,,std,18637.56279594345,13.060531817363861,4.366964457156305,4.968132029557787,12.34259607474299,1.860247106184549,,
+Unnamed index,,,,min,35.0,0.0,0.0,0.0,0.0,0.0,,
+Unnamed index,,,,25%,16703.0,0.0,2.0,2.0,14.0,0.0,,
+Unnamed index,,,,50%,32915.0,6.0,5.0,5.0,22.0,0.0,,
+Unnamed index,,,,75%,47243.0,24.0,8.0,10.0,31.0,0.0,,
+Unnamed index,,,,max,65530.0,36.0,27.0,34.0,72.0,12.0,,
